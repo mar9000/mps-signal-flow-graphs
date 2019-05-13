@@ -7,7 +7,7 @@
           <value>
             <Library>
               <option name="name" value="MPS-extensions" />
-              <option name="path" value="/opt/working-dir/MPS-examples/circuits/lib/de.itemis.mps.extensions" />
+              <option name="path" value="/opt/working-dir/mps-signal-flow-graphs/lib/de.itemis.mps.extensions" />
             </Library>
           </value>
         </entry>

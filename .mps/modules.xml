@@ -2,9 +2,9 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="/opt/working-dir/MPS-examples/circuits/languages/Circuits/Circuits.mpl" folder="" />
-      <modulePath path="/opt/working-dir/MPS-examples/circuits/languages/Circuits/runtime/Circuits.runtime.msd" folder="" />
-      <modulePath path="/opt/working-dir/MPS-examples/circuits/languages/Circuits/sandbox/Circuits.sandbox.msd" folder="" />
+      <modulePath path="/opt/working-dir/mps-signal-flow-graphs/languages/Circuits/Circuits.mpl" folder="" />
+      <modulePath path="/opt/working-dir/mps-signal-flow-graphs/languages/Circuits/runtime/Circuits.runtime.msd" folder="" />
+      <modulePath path="/opt/working-dir/mps-signal-flow-graphs/languages/Circuits/sandbox/Circuits.sandbox.msd" folder="" />
     </projectModules>
   </component>
 </project>
