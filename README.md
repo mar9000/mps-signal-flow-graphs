@@ -9,3 +9,7 @@ Demo MPS project using MPS-extensions diagrams to implement signal flow graphs
    $ ./gradlew  setup
    ```
 1. MPS can now be started and the project can be opened.
+
+# Screenshot
+
+![C1 example](https://raw.githubusercontent.com/mar9000/mps-signal-flow-graphs/master/docs/images/c1.png)
